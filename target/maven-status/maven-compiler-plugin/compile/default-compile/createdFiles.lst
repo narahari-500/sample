@@ -1,0 +1,12 @@
+com/serverless/ArchiveReaderFactory$CompressedWARCReader$1.class
+com/serverless/CommonCrawl.class
+com/serverless/Scrappers.class
+com/serverless/ArchiveReaderFactory.class
+com/serverless/ArchiveReaderFactory$CompressedWARCReader.class
+com/serverless/ArchiveReaderFactory$UncompressedWARCReader.class
+com/serverless/DBConn.class
+com/serverless/CommonCrawlDataExtractor.class
+com/serverless/KeyValue2.class
+com/serverless/Test.class
+com/serverless/AppupCounter.class
+com/serverless/WebArchiveReaderFactory.class
